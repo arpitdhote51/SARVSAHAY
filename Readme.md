@@ -149,7 +149,6 @@ Contributions are welcome! Please open an issue or submit a PR for enhancements 
 
 ## 🧑‍💻 Author
 
-- Built by **Yash Dewangan**
-- Github: [YashDewangan](https://github.com/yashdew3)
-- Email: [yashdew06@gmail.com](mailto:yashdew06@gmail.com)
-- Linkedin: [YashDewangan](https://www.linkedin.com/in/yash-dewangan/)
+- Built by **ARPIT DHOTE**
+- Github: [arpitdhote51](https://github.com/arpitdhote51)
+- Email: [yashdew06@gmail.com](mailto:arpitdhote51@gmail.com)
