@@ -1,4 +1,4 @@
-# 🛠️ AI-Powered Support Ticket Classifier
+# SARVSAHAY
 
 A complete machine learning pipeline that classifies customer support tickets by issue type and urgency level, and extracts critical entities like product names, complaint keywords, and dates — all accessible through a sleek Gradio web interface.
 
