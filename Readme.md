@@ -151,4 +151,4 @@ Contributions are welcome! Please open an issue or submit a PR for enhancements 
 
 - Built by **ARPIT DHOTE**
 - Github: [arpitdhote51](https://github.com/arpitdhote51)
-- Email: [yashdew06@gmail.com](mailto:arpitdhote51@gmail.com)
+- Email: [arpitdhote51@gmail.com](mailto:arpitdhote51@gmail.com)
